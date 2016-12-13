@@ -26,3 +26,11 @@ Caffe Based Train And Test:
 (4)Modify network_parameter_settings.prototxt to change the parameters of networks.
 
 (5)Run train_and_test_model.prototxt to train and test data sets.
+
+
+Part 3.
+Qt programming
+
+Save the result from the Caffe test to .txt form and print the result on the screen. 
+It is easy to read and understand directly from the Qt screen.
+
