@@ -18,7 +18,11 @@ Part 2.
 Caffe Based Train And Test:
 
 (1)Run create_filelist.sh to create train.txt and text.txt.
+
 (2)Run create_lmdb.sh to create data sets, which are image_train_lmdb and image_test_lmdb.
+
 (3)Run make_imagenet_mean to calculate the mean of data sets.
+
 (4)Modify network_parameter_settings.prototxt to change the parameters of networks.
+
 (5)Run train_and_test_model.prototxt to train and test data sets.
